@@ -1,5 +1,7 @@
 # Generator Simulator
 
+![Final generator screen](preview.png)
+
 An unofficial Windows fan game about repairing generators by connecting matching wires.
 
 **[Download the latest release](https://github.com/masashira0212-stack/generator-simulator/releases/latest)**
@@ -18,14 +20,6 @@ No Python installation is required. Requires 64-bit Windows and an OpenGL-compat
 - Click and drag to connect points with matching numbers.
 - Press **Esc** to leave the repair screen.
 - In the final puzzle, use **Ctrl + mouse wheel** to zoom and the **mouse wheel** to scroll vertically.
-
-## Updates in this release
-
-- Aligned the green progress bars with the generators' built-in meter frames.
-- Removed the title and click prompt from the final generator screen.
-- Removed the `Puzzle 1000 / 5` counter from the final puzzle.
-
-![Final generator screen](preview.png)
 
 ## Reporting issues
 
