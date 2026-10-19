@@ -9,8 +9,8 @@ An unofficial Windows fan game about repairing generators by connecting matching
 ## Download and play
 
 1. Open the latest release using the link above.
-2. Download `GeneratorSimulator-Windows.zip` from **Assets**.
-3. Extract the ZIP and run `GeneratorSimulator.exe`.
+2. Download `GeneratorSimulator.exe`.
+3. Run `GeneratorSimulator.exe`.
 
 No Python installation is required. Requires 64-bit Windows and an OpenGL-compatible graphics environment.
 
